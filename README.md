@@ -112,4 +112,4 @@ Este projeto foi desenvolvido por Brayan, demonstrando seu conhecimento em POO e
 
 ---
 Visite meu site: 
-https://brayan.website
+[brayan.blog](https://brayan.blog/)
